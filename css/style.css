@@ -46,3 +46,8 @@ a {
 hr {
     background-color: white;
 }
+
+.container {
+    text-align: justify;
+    font-size: 18px;
+}
